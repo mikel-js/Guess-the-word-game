@@ -1,10 +1,5 @@
 # Guess the word game
 
-### Table of contents
-
-*   [Overview](#overview)
-*   [Summary](#summary)
-*   [Website Address](#website)
 
 ### Overview
 
@@ -20,4 +15,4 @@ You are allowed to make 5 guesses, if the letter match any letters in the word,
 you don't loose guesses. You win if you guess the word.
 
 ### Website Address
-<a target="_blank" href='https://mikelgame.netlify.com/'>Click here</a>
+<a target="blank" href='https://mikelgame.netlify.com/'>Click here</a>
